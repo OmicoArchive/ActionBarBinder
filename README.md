@@ -35,7 +35,7 @@ dependencies {
 <details open>
 <summary>Kotlin</summary>
 
-You can follow the [FirstFragment.kt](sample\src\main\java\me\omico\binder\actionbar\sampleFirstFragment.kt) just simplify add `bindToolbar(Toolbar)` method, and then we are all done. It will automatically unbind our Toolbar when the fragment is destroyed.
+You can follow the [FirstFragment.kt](sample/src/main/java/me/omico/binder/actionbar/sample/FirstFragment.kt) just simplify add `bindToolbar(Toolbar)` method, and then we are all done. It will automatically unbind our Toolbar when the fragment is destroyed.
 
 </details>
 
